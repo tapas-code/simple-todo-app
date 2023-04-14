@@ -1,2 +1,2 @@
-# thapa-todo
+# simple todo app created using Vite
  
